@@ -100,7 +100,7 @@ python train_main.py \
 
 A simple example is as follows:
 
-> ![image-20230817011436246](README.assets/image-20230817011436246.png)
+![image-20230817011436246](README.assets/image-20230817011436246.png)
 
 ## Testing
 
@@ -132,7 +132,7 @@ python train_main.py \
 
 A simple example is as follows:
 
->![image-20230817020129085](README.assets/image-20230817020129085.png)
+![image-20230817020129085](README.assets/image-20230817020129085.png)
 
 # Contact
 
