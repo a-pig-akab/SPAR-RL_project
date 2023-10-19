@@ -79,7 +79,7 @@ If you do not want to repeatedly enter the related path in the command line, you
 
 ![image-20230817010918629](README.assets/image-20230817010918629.png)
 
-**PS: ** The code will save the model after a certain number of iteration and use the model to generate the test image library. If multiple test image libraries are not required, you can change the `save_TesImg_iter` parameter to change the iteration interval of the save image library. Prevents generating too many test image libraries from taking up system space.
+**PS:**  The code will save the model after a certain number of iteration and use the model to generate the test image library. If multiple test image libraries are not required, you can change the `save_TesImg_iter` parameter to change the iteration interval of the save image library. Prevents generating too many test image libraries from taking up system space.
 
 If the training process is interrupted, we can choose to load the saved model for training. Such as if it is interrupted at 1w iteration, the following code can be used to continue training:
 
