@@ -77,7 +77,7 @@ python train_main.py \
 
 If you do not want to repeatedly enter the related path in the command line, you can directly enter the following part of the code to set the default parameters:
 
-> ![image-20230817010918629](README.assets/image-20230817010918629.png)
+![image-20230817010918629](README.assets/image-20230817010918629.png)
 
 **PS: ** The code will save the model after a certain number of iteration and use the model to generate the test image library. If multiple test image libraries are not required, you can change the `save_TesImg_iter` parameter to change the iteration interval of the save image library. Prevents generating too many test image libraries from taking up system space.
 
@@ -108,7 +108,7 @@ In the code of this project, we provide the Baseline model that is repeated and 
 
 - Evaluation index specification
 
-> <img src="README.assets/image-20230817205721367.png" alt="image-20230817205721367" style="zoom:150%;" />
+<img src="README.assets/image-20230817205721367.png" alt="image-20230817205721367" style="zoom:150%;" />
 
 - Model Zoo
 
@@ -211,7 +211,7 @@ python train_main.py \
 
 如果不希望在命令行中重复输入相关路径，可以直接输入以下部分代码设置默认参数：
 
-> ![image-20230817010918629](README.assets/image-20230817010918629.png)
+![image-20230817010918629](README.assets/image-20230817010918629.png)
 
 **PS: **代码将在迭代一定次数后保存模型，并使用该模型生成测试图像库。如果不需要多个测试图像库，您可以更改' save_TesImg_iter '参数来更改保存图像库的迭代间隔。防止生成过多的测试图像库占用系统空间。
 
@@ -234,7 +234,7 @@ python train_main.py \
 
 一个简单示例如下：
 
-> ![image-20230817011436246](README.assets/image-20230817011436246.png)
+![image-20230817011436246](README.assets/image-20230817011436246.png)
 
 ## 测试
 
@@ -242,7 +242,7 @@ python train_main.py \
 
 - 评价指标规范
 
-> <img src="README.assets/image-20230817205721367.png" alt="image-20230817205721367" style="zoom:150%;" />
+<img src="README.assets/image-20230817205721367.png" alt="image-20230817205721367" style="zoom:150%;" />
 
 - Model Zoo
 
@@ -266,7 +266,7 @@ python train_main.py \
 
 一个简单示例如下：
 
->![image-20230817020129085](README.assets/image-20230817020129085.png)
+![image-20230817020129085](README.assets/image-20230817020129085.png)
 
 # 联系
 
